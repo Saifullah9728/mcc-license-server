@@ -9,7 +9,7 @@
     "lifetime": 300,
     "7d": 1
   },
-  "total": 1201,
+  "total": 1203,
   "licenses": {
     "4BAX3-7620L-YGXKF-JGTNP-C8P16": {
       "app": "PCC",
@@ -12020,6 +12020,26 @@
       "issued_at": "2026-04-02T12:58:45Z",
       "expires_at": "2026-04-09T12:58:45Z",
       "sig": "F7rk1bMStzN5CN5tcoqniCtTDHV+6S+yK4+n22ebsgq0NFTRMr1+7jgSAG/r7ePf5pg6RCdmcLzE7+TNJY6Zmfwxgj066ObUn0KdMNLm8GKiCUZ16H+BLwjk6B6WEIpIB30Bm00rmjpVjZWZ5VrBszBt4iFq0GMwMwpsCLJBwz0vyEF+x4LP4Ap4+9TwUEIRNaVnB2GP/Uhl0weGV9JlyvOQcifpX40WCzywAq3bNTDjjC+DtpIQU2rd5xT8fJcIVWoN8lMswZzSn+dhEmLRCv4L69T+RYn2YxoFOdnI8ufAGMuK6dhbC0+jN4kGqfxtLctaok39fnsrFQC3VmRuEg=="
+    },
+    "MCC99-LIFET-IME99-VALID-KEY99": {
+      "app": "MCC",
+      "license_id": "MCC-20261028-MCC99LIFETIME99VALIDKEY99",
+      "product_key": "MCC99-LIFET-IME99-VALID-KEY99",
+      "machine_id": null,
+      "plan": "lifetime",
+      "issued_at": "2026-10-28T00:00:00Z",
+      "expires_at": "2099-12-31T23:59:59Z",
+      "sig": "CmB5ygcLR3aHMYAgi83z1omzZZ2Rxzk627gHeUkBq8oTMRcIqY/NA6Lhme1RmIScl2toXGs6e/Q/wAw/mUMG7dV9NZ3GTsanbjkBGPYmM4LQGCjue83VZ4zu5fDYjZYhOpWhqVqKoD1C/y0o47nfdq1WwEoVOyehRHbNuMxyVjB/q5TJgaAfcBtM7bwGUoIwxG86exePBu8BoyZwvnGLTbeHLz1eJlmbvOMDoXyM0oG2Pgl7SrSGrAaQpCTOQMDZABsiEweQX51jZpqf2yo6QdoleDQR3Npfc5t8cFSMOiM/XreQ9jXlXH/3avOKzv8q6UKeam88akrHVunwkaZfGg=="
+    },
+    "MCC01-DCPPL-AYER9-99VAL-ID001": {
+      "app": "MCC",
+      "license_id": "MCC-20261028-MCC01DCPPLAYER999VALID001",
+      "product_key": "MCC01-DCPPL-AYER9-99VAL-ID001",
+      "machine_id": null,
+      "plan": "1y",
+      "issued_at": "2026-10-28T00:00:00Z",
+      "expires_at": "2027-10-28T23:59:59Z",
+      "sig": "JCIiYbsh6xTiraIf4alZPKw2c+V6BX6OEQG/NXJGdre2Is12yw2jJ0SEDW16lQ7riQELbQjlT6W4pwFG5tUCofOAl2Lq+oUnrlDhovODUXfaWVjiMocNDlIYnmIr4vN1sn4ZZyNMu+QKlwWBtYhDHP5dYhn07wh8l1nimsEtJ67wlNpGz2v4mH2Ug9phPTc9tUpVo7SYd6TDaDeljyA/czNjWT3Po6UK6nZSB5p1ThUIp2iEVDXjkJkxA+yICCK+fUsaOwfk/ViXtv7t/T+5DeGjTW0j9Fr7Bw2JM0C3dIk2j5AxAIayUPk4wmDMbSHKNdHNXuSmZQ+f66jDpRpfPA=="
     }
   }
 }
